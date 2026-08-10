@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-chhv1u.leogaming.cfd/sitemap.xml
